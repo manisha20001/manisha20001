@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manisha20001&label=Profile%20views&color=0e75b6&style=flat" alt="manisha20001" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **Python, Excel, MySQL, PowerBI**
 
 - 📫 How to reach me **manisha.raj.abcd@gmail.com**
 
